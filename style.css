@@ -1,15 +1,15 @@
-body{
-  margin:20;
-  height:100vh;
-  background:linear-gradient(135deg,blue,lightblue);
-  desplay:flex;
-  justify-content: center; 
-  align-items: center; 
+ody {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(135deg, blue, lightblue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-h1{
-  color:white;
+
+h1 {
+  color: white;
   font-size: 100px;
-  text-align: center; 
-  text-shadow: 0 0 10px white, 0 0 30px white; 
-  
+  text-align: center;
+  text-shadow: 0 0 10px white, 0 0 30px white;
 }
