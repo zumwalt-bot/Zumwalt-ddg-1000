@@ -1,0 +1,12 @@
+body{
+  margin:0;
+  height:100vh;
+  background:linear-gradient(135deg,blue,lightblue);
+  desplay:flex;
+  justify-content: center; 
+  align-items: center; 
+}
+h1{
+  color:white;
+  font-size: 100px;
+}
